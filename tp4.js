@@ -2,7 +2,7 @@
 Comision 5 
 Isaias Ezequiel Saldivar Rodriguez
 legajo : 94756/5
-Link video explicativo : https://youtu.be/W4-C0sf2F74
+
 */
 
 let pantalla = 0;
